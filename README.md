@@ -2,7 +2,7 @@
 
 Harvir Ghuman
 
-Pages: 
+Pages: https://harvirghuman.github.io/Lab8_Starter/
 
 ## How are graceful degradation and service workers related?
 
